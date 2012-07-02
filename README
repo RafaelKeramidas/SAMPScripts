@@ -1,0 +1,18 @@
+SA-MP Scripts
+
+# About
+A collection of SA-MP Bash scripts (GNU/Linux). 
+
+@ Author
+All scripts published here are made by Rafael 'R@f' Keramidas <rafael@keramid.as>.
+
+# Licence
+Every script released here are under GPLv3. Read the GPLv3.txt for more information.
+
+### SCRIPTS ###
+
+# samp.sh
+A simple script to start or stop your SA-MP server. 
+
+# sampinstall.sh
+A script to easily setup the lastest version of a SA-MP Server.
